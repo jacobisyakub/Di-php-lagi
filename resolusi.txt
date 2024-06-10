@@ -1,0 +1,4 @@
+php goal:
+- Belajar basic
+- Belajar OOP
+- Belajar laravel
